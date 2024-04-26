@@ -1,4 +1,4 @@
-You can simply run the program by running "make build" in your terminal.
+You can simply run the program by running "make run" in your terminal.
 The virtual machine has 4 32-bit registers A, B, C, D and consists of the following instruction set.
 =============================================================================================================
 Instruction             |   Description
